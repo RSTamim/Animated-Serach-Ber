@@ -11,7 +11,8 @@ Every project is started from scratch and finished without using copied code. Th
 
 
 
-##Learn More
+#Learn More
+
 You can learn more in the Create React App documentation.
 
 To learn React, check out the React documentation.
