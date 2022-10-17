@@ -1,5 +1,7 @@
 # Animated-Serach-Ber
-##HTML-CSS-JavaScript-projects-for-beginners
+
+
+## HTML-CSS-JavaScript-projects-for-beginners
 
 NEW HTML CSS JavaScript Projects Interesting HTML CSS JavaScript projects Learn HTML, CSS, and JavaScript 2022 to create modern websites. Fun learning HTML, CSS, and JavaScript!
 
@@ -11,7 +13,7 @@ Every project is started from scratch and finished without using copied code. Th
 
 
 
-#Learn More
+# Learn More
 
 You can learn more in the Create React App documentation.
 
